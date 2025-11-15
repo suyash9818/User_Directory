@@ -98,8 +98,9 @@ UI (Compose) → ViewModel → Repository → [Room Database + Retrofit API]
 - **Method**: GET (read-only)
 
 ## Screenshots
-
-_Add screenshots of your running app here_
+<img width="437" height="947" alt="Offline" src="https://github.com/user-attachments/assets/2e733816-cea4-4191-94a8-b32f833640b7" />
+<img width="438" height="971" alt="search_feature" src="https://github.com/user-attachments/assets/52d73370-a368-4462-8ea3-bbf3596d9695" />
+<img width="452" height="950" alt="User_dict" src="https://github.com/user-attachments/assets/72791576-bf78-4aa6-9c85-b033620347ad" />
 
 - User list screen showing all users
 - Search functionality in action
